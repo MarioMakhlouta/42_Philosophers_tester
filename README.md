@@ -1,7 +1,9 @@
 # 🧠 42 Philosophers Tester – by mmakhlou
 
 **Repository:** `42_Philosophers_tester`
+
 **Author:** Mario Makhlouta (`mmakhlou@student.42.fr`)
+
 **Project:** Tester for the 42 School **Philosophers** project
 
 ---
